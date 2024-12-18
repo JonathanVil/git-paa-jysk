@@ -1,4 +1,4 @@
-# Gitte – git på dansk
+# Bir_Git_te – git på jysk
 
 ## Introduktion
 
@@ -13,36 +13,39 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 
 ## Oversigt
 
-| Udsagnsord  | Nuværende brug | Forslag       |
-|-------------|----------------|---------------|
-| pull        | pulle          | hale          |
-| push        | pushe          | puffe         |
-| fetch       | fetche         | hente         |
-| branch      | branche        | forgrene      |
-| commit      | committe       | fastlægge     |
-| rebase      | rebase         | genbasere     |
-| merge       | merge          | flette        |
-| squash      | squashe        | kvase         |
-| stash       | stashe         | gemme         |
-| switch      | switche        | skifte        |
-| tag         | tagge          | opmærke       |
-| cherry-pick | cherry-picke   | håndplukke    |
-| amend       | amende         | tilrette      |
-| blame       | blame          | klandre       |
+### Udsagnsord
+| Englesk       | Dansk           | Jysk            |
+|---------------|-----------------|-----------------|
+| pull          | hale            | høst            |
+| push          | puffe           |            |
+| fetch         | hente           |            |
+| branch        | forgrene        |         |
+| commit        | fastlægge       | så       |
+| rebase        | genbasere       |        |
+| merge         | flette          |           |
+| squash        | kvase           |            |
+| stash         | gemme           |            |
+| switch        | skifte          |           |
+| tag           | opmærke         | øremærke         |
+| cherry-pick   | håndplukke      | håndplukke      |
+| amend         | tilrette        |         |
+| blame         | klandre         |          |
 
-| Navneord      | Nuværende brug | Forslag         |
-|---------------|----------------|-----------------|
-| repository    | repository     | repositorium    |
-| branch        | branch         | gren            |
-| commit        | commit         | fastlæggelse    |
-| pull request  | pull request   | haleanmodning   |
-| merge request | merge request  | fletteanmodning |
-| stash         | stash          | gemme           |
-| tag           | tag            | mærke           |
+### Navneord
+| Englesk       | Dansk           | Jysk            |
+|---------------|-----------------|-----------------|
+| repository    | repositorium    | gård    |
+| branch        | gren            | mark            |
+| commit        | fastlæggelse    | såning    |
+| pull request  | haleanmodning   | høstfest   |
+| merge request | fletteanmodning |  |
+| stash         | gemme           | silo           |
+| tag           | mærke           | øremærke           |
 
-|Biord         | Nuværende brug | Forslag      |
-|--------------|----------------|--------------|
-| upstream     | upstream       | opstrøms     |
+### Biord
+| Englesk       | Dansk           | Jysk            |
+|---------------|-----------------|-----------------|
+| upstream      | opstrøms        | Randers        |
 
 ## Eksempler
 
